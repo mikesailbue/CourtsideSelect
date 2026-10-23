@@ -1,6 +1,6 @@
 # Courtside Select — GitHub Pages website
 
-Buildless static website prepared for `mikesailblue/basketball-app`. App name: Courtside Select. Public support: calkinsapps@gmail.com. The owner confirms the app records and saves highlights. No App Store URL has been supplied.
+Buildless static website prepared for `mikesailbue/CourtsideSelect`. App name: Courtside Select. Public support: calkinsapps@gmail.com. The owner confirms the app records and saves highlights. No App Store URL has been supplied.
 
 ## Before public launch
 
@@ -10,7 +10,7 @@ Buildless static website prepared for `mikesailblue/basketball-app`. App name: C
 
 ## Publish on GitHub Pages
 
-1. Sign in to GitHub as **mikesailblue** and create a public repository named **basketball-app**, or open that existing repository.
+1. Sign in to GitHub as **mikesailbue** and create a public repository named **CourtsideSelect**, or open that existing repository.
 2. Upload the contents of this folder to the repository root. `index.html`, `assets/`, `support/`, `privacy/`, and `.nojekyll` must be at the root, not inside an extra `basketball-app` folder. If using the ZIP, extract it first and include the hidden `.nojekyll` file when using Git.
 3. Commit the files to the `main` branch.
 4. Open repository **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, select **main** and **/(root)**, then save.
@@ -18,9 +18,9 @@ Buildless static website prepared for `mikesailblue/basketball-app`. App name: C
 
 Expected addresses AFTER deployment (not yet verified):
 
-- Marketing: https://mikesailblue.github.io/basketball-app/
-- Support: https://mikesailblue.github.io/basketball-app/support/
-- Privacy placeholder: https://mikesailblue.github.io/basketball-app/privacy/
+- Marketing: https://mikesailbue.github.io/CourtsideSelect/
+- Support: https://mikesailbue.github.io/CourtsideSelect/support/
+- Privacy placeholder: https://mikesailbue.github.io/CourtsideSelect/privacy/
 
 ## Verify only after deployment
 
@@ -28,4 +28,4 @@ Open all three addresses after the Pages deployment succeeds. Check navigation, 
 
 ## Files
 
-No package installation or build is required. All visual assets and styles are local. The scoreboard is a clearly labeled illustration, not a working recorder or app screenshot. Paths intentionally target `/basketball-app/`; update them if the repository name or hosting path changes.
+No package installation or build is required. All visual assets and styles are local. The scoreboard is a clearly labeled illustration, not a working recorder or app screenshot. Paths intentionally target `/CourtsideSelect/`; update them if the repository name or hosting path changes.
